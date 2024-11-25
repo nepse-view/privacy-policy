@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="169.333mm" height="169.333mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="1985 2122 2049 1774"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        .fil1 {fill:#00F0BB}
+        .fil2 {fill:#5C5AFD}
+        .fil0 {fill:white}
+      ]]>
+    </style>
+  </defs>
+  <g id="Layer_x0020_1">
+    <g>
+      <g>
+        <polygon class="fil1" points="2241.14,3452.95 2753.3,2565.77 3009.36,3009.36 3265.43,2565.77 3009.36,2122.29 2497.22,2122.32 1985.07,3009.43 "/>
+        <polygon class="fil2" points="3777.56,2565.77 3265.43,3452.95 3009.36,3009.36 2753.29,3452.95 3009.33,3896.43 3521.5,3896.43 4033.65,3009.32 "/>
+      </g>
+    </g>
+  </g>
+</svg>
